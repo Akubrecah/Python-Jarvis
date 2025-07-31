@@ -62,8 +62,5 @@ python main.py
 - psutil
 - PyAudio
 
-## 📝 License
-MIT License
-
 ## 👤 Author
 Akubrecah
